@@ -128,3 +128,21 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Build
+build/
+out/
+
+# Other
+*.class
+*.log
+*.tmp
+*.bak
+*.orig
+local.properties
